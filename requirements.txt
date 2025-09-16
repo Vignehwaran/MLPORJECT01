@@ -2,4 +2,7 @@ pandas
 seaborn
 scipy
 numpy
+python-dotenv
+google.generativeai
+streamlit
 -e .
